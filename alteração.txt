@@ -1,2 +1,2 @@
-fiz um programa para mostrar cada valor da série de fibonacci
+fiz um programa para mostrar cada valor da série de fibonaci
 
